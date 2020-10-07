@@ -4,6 +4,6 @@
 
 # use a virtual env
 
-# this project use OpenWeatherMap API so you have to sign up for that they have a free plan :)
-
+# this project use OpenWeatherMap API so you have to sign up for that they have a free plan :) 
+### SITE: https://openweathermap.org/api 
 
