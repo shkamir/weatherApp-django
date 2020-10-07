@@ -3,7 +3,7 @@ import requests
 from .models import City
 from .forms import CityForm
 # open weather api key
-api_key = '7b4bc779490dc7c9ab3aa81a428ee14d'
+api_key = 'YOUR OPEN WEATHER MAP API KEY HERE'
 def index(request):
     url = "http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid={}"
 
